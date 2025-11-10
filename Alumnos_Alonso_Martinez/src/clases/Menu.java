@@ -26,11 +26,8 @@ public class Menu {
                 return;
         }
         
-        // Pasar gestorAlumnos a la opción seleccionada
+        // Pasar gestorAlumnos a la opción seleccionada 
         opcionMenu.ejecutar(gestorAlumnos);
     }
 }
-
-
-
 
